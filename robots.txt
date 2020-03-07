@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohcheelahp.lenkavecera.cz/sitemap.xml
